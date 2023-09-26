@@ -6,6 +6,7 @@
 
 <h1>Tämä on minun Githubissa oleva sivu</h1>
 <p style="color:purple;">Tässä on hiukan violettia tekstiä</p>
+<p style="color:blue;">Tässä onpi hiukan sinistä tekstiä</p>
 <p><b>Tämä teksti on boldattua</b>.</p>
 
 </body>
